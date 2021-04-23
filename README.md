@@ -24,7 +24,9 @@ Are there enough qualified, retirement-ready employees in the departments to men
 
 ### Additional Tables and Queries
 I have created a few additional tables/queries to give P-H more context for creating the mentorship program.
-
-1. The first is a table showing the average salary of employees eligible for the mentor program. Earlier, the Sales team was talking about asking retiring staff members to come back as part time mentors. Having the average salary by position for eligible mentors will aid P-H in determining fair pay for these part time mentors should they choose to pursue the Sales team's plan.
-2. The second is a table showing the average, minimum, and maximum age for current employees grouped by title. This data will help P-H further plan for the future by seeing the age statistics for each position.
+![Mentor Salary Avg by Title](Resources/salary_avg.png)
+1. The first is a table showing the average salary of employees eligible for the mentor program. Earlier, the Sales team was talking about asking retiring staff members to come back as part time mentors. Having the average salary by position for eligible mentors will aid P-H in determining fair pay for these part time mentors should they choose to pursue the Sales team's plan.<br>
+![Age Stats by Title](Resources/age_stats.png)<br>
+2. The second is a table showing the average, minimum, and maximum age for current employees grouped by title. This data will help P-H further plan for the future by seeing the age statistics for each position.<br>
+![Mentor Title Count](Resources/mentor_title.png)<br>
 3. Lastly is a table showing the title count for employees eligible for the mentor program. This data will show the break down of mentors by positions to see if it follows the same trend as the count of retiring titles.
